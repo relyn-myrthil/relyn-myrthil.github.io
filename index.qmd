@@ -3,18 +3,9 @@ about:
   image: files/milo.png
   template: jolla
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/matthewlavallee
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/lavalleemat
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/mattylavallee/
-    - icon: google-scholar
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=5OUEFSUAAAAJ&hl=en
+      href: https://www.linkedin.com/in
 navbar: false
 comments: false
 ---
