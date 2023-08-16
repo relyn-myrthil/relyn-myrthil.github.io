@@ -1,34 +1,13 @@
 ---
-title: "Matthew Lavallee"
 about:
-  template: trestles
-  image: files/profilepic.png
+  template: jolla
+  image: files/milo.png
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/matthewlavallee
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/lavalleemat
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/mattylavallee/
-    - icon: google-scholar
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=5OUEFSUAAAAJ&hl=en
+      href: https://www.linkedin.com/in/relyn-myrthil/
 comments: false
+navbar: false
 ---
 
-### About
-
-I am PhD student at the Johns Hopkins Bloomberg School of Public Health, training to become a health economist. My research interests include Medicaid, the social safety net, and how programs interact. Before graduate school, I worked as a Tobin Center / Economics Pre-Doctoral Fellow researching access to care and quality of care in Medicaid, and how social programs shape care for Medicaid enrollees.
-
-### Education
-
-      Hampshire College - Amherst, Massachusetts
-
-            *BA in Economics & Mathematics, 2020*
-
-      Johns Hopkins University - Baltimore, Maryland
-
-            *PhD in Health Economics & Policy, 2027 (expected)*
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum enim facilisis gravida neque. Nisl rhoncus mattis rhoncus urna. Odio pellentesque diam volutpat commodo. Facilisis leo vel fringilla est ullamcorper. Scelerisque varius morbi enim nunc faucibus a pellentesque. Nunc congue nisi vitae suscipit tellus mauris a. Malesuada nunc vel risus commodo. Risus commodo viverra maecenas accumsan lacus vel. Maecenas sed enim ut sem viverra aliquet eget sit. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Nec sagittis aliquam malesuada bibendum. Vitae aliquet nec ullamcorper sit amet risus nullam. Venenatis cras sed felis eget velit aliquet sagittis id. Velit euismod in pellentesque massa placerat. Praesent elementum facilisis leo vel fringilla est. Velit ut tortor pretium viverra suspendisse potenti nullam. Est pellentesque elit ullamcorper dignissim. Tincidunt vitae semper quis lectus nulla at volutpat diam. Convallis posuere morbi leo urna molestie at elementum eu.
