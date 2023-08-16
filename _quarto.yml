@@ -1,26 +1,43 @@
 project:
   type: website
+  output-dir: docs
+
+resources:
+  - CNAME
+
 
 website:
-  title: "rgm_web"
+  title: "Matthew Lavallee"
+  site-url: ""
+  repo-url: "https://github.com/MatthewLavallee/matthewlavallee.github.io"
+  description: "Website of Matthew Lavallee"
+  #cookie-consent: true
+  google-analytics: "G-1GWH810RLY"
+  twitter-card: 
+    creator: "@lavalleemat"  
+  search: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: files/cv_lavallee.pdf
+        text: CV
+      - href: research.qmd
+        text: Research
+  
   page-footer:
     left: |
-      {{< fa regular copyright >}} 2023 Relyn Myrthil.<br>
+      {{< fa regular copyright >}} 2023 Matthew Lavallee.<br>
       
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/).<br>
-      [Source at {{< fa brands github >}} GitHub](https://github.com/relyn-myrthil/relyn-myrthil.github.io).
-
+      [Source at {{< fa brands github >}} GitHub](https://github.com/MatthewLavallee/matthewlavallee.github.io).
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme:
+      light: [cosmo, theme-light.scss]
+      #dark: [cosmo, theme-dark.scss]
+    mainfont: Montserrat
+    fontsize: 0.95em
+    toc: false
 
 editor: visual
-

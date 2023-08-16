@@ -1,0 +1,54 @@
+---
+title: "Research"
+css: styles.css
+---
+
+### Publications
+
+------------------------------------------------------------------------
+
+```{r,message=F,echo=F}
+#| results: asis
+
+library(tidyverse)
+library(glue)
+library(data.table)
+library(here)
+
+df<-readxl::read_xlsx(here("pubs","pubs.xlsx"))%>%
+  data.table()
+gluefun <- function(df) {
+  glue('<span> {df$authors}. {df$year}. [{df$title}]({df$link}) {df$journal}.</span>
+    <a 
+    type="button"
+    class="btn btn-primary-sm"
+    data-bs-toggle="collapse"
+    data-bs-target="#collapse{df$short_id}" 
+    aria-expanded="false" 
+    aria-controls="collapseExample"
+    >
+    Abstract
+    </a> 
+<div class="collapse" id="collapse{df$short_id}">
+  <div class="card card-body">
+    {df$abstract}
+  </div>
+</div><br>')%>%print()
+}
+
+
+
+for (i in 1:nrow(df[,.N,year])) {
+  y<-df[,.N,year][order(year)][i,year]
+  pubs_y<-df[year==y]
+  print(glue(""))
+  print(glue('#### {y}'))
+  pubs_y[order(date)]%>%
+    split(1:nrow(pubs_y))%>%
+    walk(gluefun)
+}
+```
+
+### Work In Progress
+
+------------------------------------------------------------------------
