@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "rgm_web",
+    "title": "Matthew Lavallee",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo laoreet sit amet cursus sit amet. Ut pharetra sit amet aliquam. Mauris a diam maecenas sed. Enim eu turpis egestas pretium aenean pharetra magna ac. Sed euismod nisi porta lorem mollis aliquam ut. Ut sem nulla pharetra diam sit amet nisl suscipit. Faucibus in ornare quam viverra. Sed vulputate odio ut enim blandit volutpat. Arcu non odio euismod lacinia at. Et pharetra pharetra massa massa. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum."
+    "text": "About\nI am PhD student at the Johns Hopkins Bloomberg School of Public Health, training to become a health economist. My research interests include Medicaid, the social safety net, and how programs interact. Before graduate school, I worked as a Tobin Center / Economics Pre-Doctoral Fellow researching access to care and quality of care in Medicaid, and how social programs shape care for Medicaid enrollees.\n\n\nEducation\n      Hampshire College - Amherst, Massachusetts\n            BA in Economics & Mathematics, 2020\n      Johns Hopkins University - Baltimore, Maryland\n            PhD in Health Economics & Policy, 2027 (expected)"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "quarto website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Publications\n\n\n2022\nJacob Wallace, Anthony Lollo, Kate A Duchowny, Matthew Lavallee, Chima D Ndumele. 2022. “Disparities in Health Care Spending and Utilization Among Black and White Medicaid Enrollees” JAMA Health Forum \n\n\n2023\n\n\n\nWork In Progress"
   }
 ]
