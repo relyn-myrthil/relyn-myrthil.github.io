@@ -1,0 +1,22 @@
+---
+about:
+  image: files/milo.png
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/matthewlavallee
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/lavalleemat
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mattylavallee/
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=5OUEFSUAAAAJ&hl=en
+navbar: false
+comments: false
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo laoreet sit amet cursus sit amet. Ut pharetra sit amet aliquam. Mauris a diam maecenas sed. Enim eu turpis egestas pretium aenean pharetra magna ac. Sed euismod nisi porta lorem mollis aliquam ut. Ut sem nulla pharetra diam sit amet nisl suscipit. Faucibus in ornare quam viverra. Sed vulputate odio ut enim blandit volutpat. Arcu non odio euismod lacinia at. Et pharetra pharetra massa massa. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum.
