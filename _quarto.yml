@@ -22,7 +22,7 @@ website:
       
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/).<br>
-      [Source at {{< fa brands github >}} GitHub](https://github.com/relyn-myrthil/relyn-myrthil.github.io).
+      [Source code at {{< fa brands github >}}](https://github.com/relyn-myrthil/relyn-myrthil.github.io).
 
 format:
   html:
